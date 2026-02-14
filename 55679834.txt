@@ -1,0 +1,5 @@
+1. Aprendí cómo funciona el flujo de trabajo con Git: clone, add, commit, push y merge.
+
+2. Trabajé individualmente. No tuve conflictos porque solo yo hice cambios.
+
+3. Git permite controlar versiones, trabajar en equipo y evitar perder código.
