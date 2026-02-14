@@ -2,4 +2,4 @@
 
 2. Trabajé individualmente. No tuve conflictos porque solo yo hice cambios.
 
-3. Git permite controlar versiones, trabajar en equipo y evitar perder código.
+3. Git permite controlar versiones, trabajar en equipo y evitar perder código, una funcionalidad muy util.
