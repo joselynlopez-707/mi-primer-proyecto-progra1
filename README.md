@@ -1,4 +1,4 @@
-&nbsp;Mi Primer Proyecto
+ Mi Primer Proyecto
 
 
 
@@ -11,4 +11,8 @@ Nombre: Joselyn López
 
 
 Lo que aprendí: Aprendí a usar Git, crear ramas y subir cambios a GitHub.
+
+
+
+Trabajando en mi propia rama
 
