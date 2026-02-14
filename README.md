@@ -10,7 +10,7 @@ Nombre: Joselyn Marleni Lòpez y Lòpez
 
 
 
-Lo que aprendi: Aprendi a utilizar y reconocer la funcionalidad de algunos comandos.
+Lo que aprendì: Aprendi a utilizar y reconocer la funcionalidad de algunos comandos.
 
 
 
