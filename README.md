@@ -2,17 +2,17 @@
 
 
 
-Este es un proyecto de práctica para aprender Git y GitHub de Programación 1.
+Este es un proyecto de práctica para aprender a utilizar Git y GitHub de Programación 1 (sin morir en el intento)
 
 
 
-Nombre: Joselyn López
+Nombre: Joselyn Marleni Lòpez y Lòpez
 
 
 
-Lo que aprendí: Aprendí a usar Git, crear ramas y subir cambios a GitHub.
+Lo que aprendì: Aprendì a utilizar y reconocer la funcionalidad de algunos comandos.
 
 
 
-Trabajando en mi propia rama
+Trabajando en mi propia rama. 
 
